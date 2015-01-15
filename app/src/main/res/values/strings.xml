@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Barbell Buddy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_weight_display">weightDisplay</string>
+    <string name="weigh_display">Place the following weights on each side:</string>
+
+</resources>
